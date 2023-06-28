@@ -1,4 +1,6 @@
-🤖 Futures
+Updated: V3.1
+ 
+Futures
 
 
 Startup
